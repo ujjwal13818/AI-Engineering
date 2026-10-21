@@ -1,0 +1,7 @@
+pytest
+ruff
+black
+ipykernel
+jupyter
+rich
+requests
